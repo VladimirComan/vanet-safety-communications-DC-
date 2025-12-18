@@ -39,9 +39,4 @@ Thumbs.db
 *.tmp
 *.temp
 
-# Claude Code
-.claude/
-CLAUDE.md
 
-# Presentation (private)
-presentation/
