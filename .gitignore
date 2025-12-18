@@ -1,0 +1,47 @@
+# NS-3 build artifacts
+ns-3-allinone/
+ns-3-dev/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+ENV/
+
+# Results (large files, regenerate with scripts)
+results/
+
+# AI model files (can regenerate)
+ai/ai_results/
+*.pkl
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# PCAP files (large)
+*.pcap
+
+# Temporary files
+*.tmp
+*.temp
+
+# Claude Code
+.claude/
+CLAUDE.md
+
+# Presentation (private)
+presentation/
